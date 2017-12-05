@@ -1,0 +1,1 @@
+python evaluate.py --checkpoint ./examples/scream.ckpt --in-path ./examples/from.jpg --out-path ./examples/output_image.jpg
